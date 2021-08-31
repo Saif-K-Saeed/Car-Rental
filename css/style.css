@@ -1,0 +1,24 @@
+.header img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+  }
+  
+  .header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(36, 36, 36);
+    color:rgb(172, 188, 201);
+
+    text-align: center;
+ }
+ rgb(36, 36, 36);
+ rgb(230, 46, 45);
+ rgb(172, 188, 201);
